@@ -10,4 +10,15 @@
     echo 
 
   }
+
+
+  $nome = "Matheus";
+  $idade = 27;
+  $prova = "Rápida";
+  $tempo = "14min";
+
+
+  echo "Meu nome é $nome, <br>
+  minha idade é $idade<br>
+  e faço a prova $prova de aguás abertas <br>";
 ?>

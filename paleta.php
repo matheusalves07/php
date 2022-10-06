@@ -22,3 +22,5 @@
   minha idade é $idade<br>
   e faço a prova $prova de aguás abertas <br>";
 ?>
+
+<img src="" alt="">
